@@ -236,6 +236,7 @@ CREATE TABLE Entrega (
         REFERENCES Pedido(idPedido)
 );
 
+```
 ---
 ## ✍️ Autor
 
