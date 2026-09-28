@@ -235,3 +235,9 @@ CREATE TABLE Entrega (
     CONSTRAINT fk_entrega_pedido FOREIGN KEY (Pedido_idPedido) 
         REFERENCES Pedido(idPedido)
 );
+
+---
+## ✍️ Autor
+
+Desenvolvido por **Ricardo Freitas**  
+*Estudante de Ciência de Dados & Entusiasta em Arquitetura de Dados.*
