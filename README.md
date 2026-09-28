@@ -73,7 +73,7 @@ Em e-commerces, o preço de um produto varia ao longo do tempo. Se a consulta do
 
 Abaixo está a representação visual final da arquitetura do banco de dados, totalmente validada até à **Terceira Forma Normal (3FN)**:
 
-![Diagrama do Banco de Dados de E-commerce](./Projeto%20de%20E-commerce_6.png)
+![Diagrama do Banco de Dados de E-commerce](./Projeto%20de%20E-commerce.png)
 
 ---
 
